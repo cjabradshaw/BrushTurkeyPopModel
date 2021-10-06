@@ -1,5 +1,5 @@
 # Brush turkey population projection model
-<img align="right" src="brushturkey.png" alt="brush turkey" width="300" style="margin-top: 20px">
+<img align="right" src="brushturkey.png" alt="brush turkey" width="200" style="margin-top: 20px">
 
 Stochastic Leslie matrix population model for the brush turkey (<a href="https://www.birdlife.org.au/bird-profile/australian-brush-turkey"><em>Alectura lathami</em></a>)
 
